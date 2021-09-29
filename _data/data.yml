@@ -97,9 +97,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Organizing Committee
+      time: 2021
+      company: Postgraduate Research Symposium on Linguistics, Language, and Speech (PRSLLS) - Hong Kong Polytechnic University
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -112,9 +112,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Teaching Assistant in English Syntax (Prof. Jong-Bok Kim)
+      time: Spring 2021
+      company: Department of English Language and Literature, Kyung Hee University, Seoul
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
