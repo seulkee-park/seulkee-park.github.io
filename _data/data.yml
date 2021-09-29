@@ -7,166 +7,194 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Seulkee Park
-    tagline: PhD Candidate in English Linguistics
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: seulkeepark@khu.ac.kr
-    twitter: '@seulkee_park'
-    pdf: https://drive.google.com/file/d/1QKn_G8F__7nP3xv4Lwx8BiqBk-kSCXYM/view?usp=sharing
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Korean
+      - idiom: English
         level: Native
 
-      - idiom: English
+      - idiom: French
         level: Professional
 
+      - idiom: Spanish
+        level: Professional
+
+    interests:
+      - item: Climbing
+        link:
+
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
+        link:
+
 career-profile:
-    title: Seulkee Park
+    title: Career Profile
     summary: |
-      I am a Ph.D. candidate in the department of English Linguistics at Kyung Hee University, Seoul. 
-      My research areas are Syntax and Corpus Linguistics in English and Korean. 
-      Currently, I am working on English ellipsis constructions such as as-parentheticals and stripping constructions from a Construction Grammar (CxG) perspective with my advisor Prof. Jong-Bok Kim.
-      My doctoral dissertation examines the elliptical distributions of stripping constructions in various adverbial clauses in English.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+
+      Second paragraph if required.
 
 education:
-    - degree: Ph.D. Candidate in English Linguistics
-      university: Kyung Hee University, Seoul
-      time: Expected in 2022
-
-    - degree: M.A. in English Linguistics
-      university: Kyung Hee University, Seoul
-      time: 2012
-     
-    - degree: B.A. in English Linguistics and Literature
-      university: Chungnam National University, Daejeon
-      time: 2009
-       
-    - degree: Korean Language Teacher Training Program
-      university: Korean Language Center at Korea University, Seoul
-      time: 2015
-
-
-publications:
-    title: Publication
-
-    papers:
-      - title: "Correlations between island (in)sensitivity and base positions of (non-)standard wh-in-situ"
-        link: "#"
-        authors: Kim, Okgi and Seulkee Park.
-        conference:  "2021. Proceedings of the Linguistic Society of America 6(1): 806-814. https://doi.org/10.3765/plsa.v6i1.5019." 
-
-        
-conferences:
-    title: Conferences
-
-    papers:
-      - title: "Subjectless as-parenthetical constructions in English: A corpus-based approach (Commentary by Mark Davies)." 
-        link: "#"
-        authors: Park, Seulkee and Jong-Bok Kim.
-        conference: "2021. A talk to be given virtually at the 2021 Fall LSK Young Scholar Symposium. The Linguistic Society of Korea. October 21-22. Seoul, Korea."
-
-      - title: "Subjectless as-parenthetical constructions in English: A corpus-based approach"
-        link: "#"
-        authors: Park, Seulkee and Jong-Bok Kim.
-        conference: "2021. A talk to be given virtually at the 7th Annual Linguistics Conference at the University of Georgia (LCUGA7). October 9-10, 2021. Athens, GA."
-
-      - title: "Island sensitivity of (non-)standard wh-in-situ in Korean"
-        link: "#"
-        authors: Kim, Okgi and Seulkee Park.
-        conference: "2021. A paper presentation at the 95th Annual Meeting of the Linguistic Society of America (LSA95). January 7-10, 2021. San Francisco, CA. "
-      
-      - title: "English As-parenthetical Construction: A Construction-based Perspective"
-        link: "#"
-        authors: Park, Seulkee and Jong-Bok Kim.
-        conference: "2017. Linguistics Prague 2017. April 27-29, 2017. Prague, Czech Republic: Charles University."
-        
-              
-      - title: "Mixed Properties of English Free Relative Clause: A Construction-based Perspective"
-        link: "#"
-        authors: Baik, Jiseon, Seulkee Park, and Jong-Bok Kim.
-        conference: "2016. The 32nd Annual Northwest Linguistics Conference (NWLC32). April 23-24, 2016. Seattle, WA: University of Washington."
-        
-        - title: "A Constructional Account of the Close Apposition in English"
-        link: "#"
-        authors: Park, Seulkee and Jong-Bok Kim.
-        conference: "2014. Purdue Linguistics Association (PLA9) Symposium. March 28-29, 2014. West Lafayette, IN: Purdue University."
-        
-        - title: "English As-parenthetical Construction: Interactions between the Lexicon and Constructions"
-        link: "#"
-        authors: Park, Seulkee, Nam-Geun Lee, and Jong-Bok Kim.
-        conference: "2013. Linguistic Association of the Southwest (LASSO42) XLII Preliminary Conference. September 26-28, 2013. New Brunswick, NJ: The College of New Jersey and West Chester University of Pennsylvania."
-        
-        - title: "Subjectless as-parenthetical constructions in English: A corpus-based approach"
-        link: "#"
-        authors: Park, Seulkee and Jong-Bok Kim.
-        conference: "A talk to be given virtually at the 7th Annual Linguistics Conference at the University of Georgia (LCUGA7). October 9-10, 2021. Athens, GA."
-        
-        - title: "Subjectless as-parenthetical constructions in English: A corpus-based approach"
-        link: "#"
-        authors: Park, Seulkee and Jong-Bok Kim.
-        conference: "A talk to be given virtually at the 7th Annual Linguistics Conference at the University of Georgia (LCUGA7). October 9-10, 2021. Athens, GA."
-  
-experiences:
-    - role: Organizing Committee
-      time: 2021
-      company: Postgraduate Research Symposium on Linguistics, Language, and Speech (PRSLLS) - Hong Kong Polytechnic University
-
-    - role: Teaching Assistant in Understanding English Syntactic Phenomena (Prof. Jong-Bok Kim)
-      time: Spring 2021
-      company: Department of English Language and Literature, Kyung Hee University, Seoul
-
-    - role: Organization Staff
-      time: 2016
-      company: The 30th Pacific Asia Conference on Language, Information, and Computation (PACLIC). Kyung Hee University, Seoul
-    
-    - role: Teaching Assistant
-      time: 2015
-      company: School of English, Kyung Hee University, Seoul
-
-    - role: Lecturer
-      time: 2014 - 2015
-      company: The Center for Continuing Education, Kyung Hee University, Seoul
-
-    - role: Assistant Administrator
-      time: 2013
-      company: Korean Association of Corpus Linguistics (KACL)
-          
-    - role: Teaching Tutor
-      time: 2012 - 2014
-      company: School of English, Kyung Hee University, Seoul
-
-    - role: Teaching Assistant
+    - degree: MSc in Computer Science
+      university: University of London
       time: 2011 - 2012
-      company: Department of American Studies, Kyung Hee Cyber University
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 
-    - role: Research Assistant
-      time: 2010 - 2011
-      company:  Center for Teaching and Learning, Kyung Hee University (KHCTL). Kyung Hee University, Seoul
- 
+          - Bullet point
+          - Bullet point
+
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+
+          - Bullet point
+          - Bullet point
+
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
 projects:
     title: Projects
-  
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Research Assistant of Global Research Network Program
+      - title: Velocity
         link: "#hook"
-        tagline: "2014-2017. Synchronic and Diachronic Aspects of English What Constructions: A Corpus-based Approach. [Members: Jong-Bok Kim, Mark Davies (Brigham Young University), Okgi Kim, Seulkee Park, and Rok Sim]"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Research Assistant of Principal Researcher
+      - title: DevStudio
         link: "#"
-        tagline: "2011-2016. A Grammatical Interfaces in English and Korean: A Constraint-based Approach. [Members: Jong-Bok Kim, Seulkee Park and Okgi Kim]"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+
+    papers:
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: LaTeX
+      - name: Python & Django
         level: 98%
 
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
