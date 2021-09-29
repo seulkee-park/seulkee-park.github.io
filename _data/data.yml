@@ -13,8 +13,16 @@ sidebar:
 
     # Sidebar links
     email: seulkeepark@khu.ac.kr
-    website: https://seulkee-park.github.io #do not add http://
+    phone: 
+    website: seulkee-park.github.io #do not add http://
+    linkedin: 
+    github: 
+    gitlab:
+    bitbucket:
     twitter: '@seulkee_park'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Korean
