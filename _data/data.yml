@@ -58,6 +58,16 @@ education:
       details: |
         Thesis: As-parentheticals in English: A Construction-based Approach
           - [Committee: Se Youn Cho (Chair), Jong-bok Kim, Jae-Hak Yoon]
+          
+    - degree: B.A. in English Linguistics and Literature
+      university: Chungnam National University, Daejeon
+      time: 2009
+      details: |
+          
+    - degree: Certificate in Korean Language Teacher Training Program
+      university: Korean Language Center at Korea University, Seoul
+      time: 2015
+      details: |
 
 experiences:
     - role: Lead Developer
