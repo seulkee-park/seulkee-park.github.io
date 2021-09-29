@@ -74,28 +74,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
- - degree: BA in English Linguistics and Literature
-      university: Chungnam National University, Daejeon
-      time: 2009
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-      - degree: Certificate in Korean Language Teacher Training Program
-      university: Korean Language Center at Korea University, Seoul
-      time: 2015
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point    
+ 
 experiences:
     - role: Organizing Committee
       time: 2021
