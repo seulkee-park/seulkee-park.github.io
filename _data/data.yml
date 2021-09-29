@@ -17,23 +17,23 @@ sidebar:
     twitter: '@seulkee_park'
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Japanese, French
+        level: Beginner
 
     interests:
-      - item: Climbing
+      - item: Coffee
         link:
 
-      - item: Snowboarding
+      - item: Museum
         link:
 
-      - item: Cooking
+      - item: Travel
         link:
 
 career-profile:
