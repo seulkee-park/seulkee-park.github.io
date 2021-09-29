@@ -74,7 +74,15 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
- 
+publications:
+    title: Publications
+    intro: |
+
+    papers:
+      - title: Correlations between island (in)sensitivity and base positions of (non-)standard wh-in-situ
+        link: "#"
+        authors: Kim, Okgi and Seulkee Park.
+        conference:  "2021. Proceedings of the Linguistic Society of America 6(1): 806-814. https://doi.org/10.3765/plsa.v6i1.5019."  
 experiences:
     - role: Organizing Committee
       time: 2021
@@ -118,15 +126,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
 
-    papers:
-      - title: Correlations between island (in)sensitivity and base positions of (non-)standard wh-in-situ
-        link: "#"
-        authors: Kim, Okgi and Seulkee Park.
-        conference:  "2021. Proceedings of the Linguistic Society of America 6(1): 806-814. https://doi.org/10.3765/plsa.v6i1.5019." 
 
 
 
