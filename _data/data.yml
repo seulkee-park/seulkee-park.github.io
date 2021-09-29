@@ -74,9 +74,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-     - degree: MA in English Linguistics
-      university: Kyung Hee University, Seoul
-      time: 2012
+     - degree: BA in English Linguistics and Literature
+      university: Chungnam National University, Daejeon
+      time: 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -85,9 +85,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-      - degree: MA in English Linguistics
-      university: Kyung Hee University, Seoul
-      time: 2012
+      - degree: Certificate in Korean Language Teacher Training Program
+      university: Korean Language Center at Korea University, Seoul
+      time: 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
