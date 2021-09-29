@@ -125,10 +125,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Correlations between island (in)sensitivity and base positions of (non-)standard wh-in-situ
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Kim, Okgi and Seulkee Park.
+        conference:  "2021. Proceedings of the Linguistic Society of America 6(1): 806-814. https://doi.org/10.3765/plsa.v6i1.5019." 
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
