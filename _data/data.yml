@@ -45,32 +45,37 @@ sidebar:
         link:
 
 career-profile:
-    title: Seulkee Park
+    title: Career Profile
     summary: |
-I am a Ph.D. candidate in the department of English Linguistics at Kyung Hee University, Seoul. 
-My research areas are Syntax and Corpus Linguistics in English and Korean. 
-Currently, I am working on English ellipsis constructions such as as-parentheticals and stripping constructions from a Construction Grammar (CxG) perspective with my advisor Prof. Jong-Bok Kim.
-My doctoral dissertation examines the elliptical distributions of stripping constructions in various adverbial clauses in English.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: Ph.D. Candidate in English Linguistics
-      university: Kyung Hee University, Seoul
-      time: Expected in 2022
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        Dissertation in progress - English stripping constructions in various adverbial clauses
-    - degree: M.A. in English Linguistics
-      university: Kyung Hee University, Seoul
-      time: 2012
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        "Thesis: As-parentheticals in English: A Construction-based Approach"
-          - [Committee - Se Youn Cho (Chair), Jong-bok Kim, Jae-Hak Yoon]         
-    - degree: B.A. in English Linguistics and Literature
-      university: Chungnam National University, Daejeon
-      time: 2009
-      details: |          
-    - degree: Certificate in Korean Language Teacher Training Program
-      university: Korean Language Center at Korea University, Seoul
-      time: 2015
-      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
