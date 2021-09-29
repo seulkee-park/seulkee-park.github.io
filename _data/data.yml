@@ -51,52 +51,26 @@ I am a Ph.D. candidate in the department of English Linguistics at Kyung Hee Uni
 My research areas are Syntax and Corpus Linguistics in English and Korean. 
 Currently, I am working on English ellipsis constructions such as as-parentheticals and stripping constructions from a Construction Grammar (CxG) perspective with my advisor Prof. Jong-Bok Kim.
 My doctoral dissertation examines the elliptical distributions of stripping constructions in various adverbial clauses in English.
-
-
 education:
     - degree: Ph.D. Candidate in English Linguistics
       university: Kyung Hee University, Seoul
       time: Expected in 2022
       details: |
         Dissertation in progress - English stripping constructions in various adverbial clauses
-
     - degree: M.A. in English Linguistics
       university: Kyung Hee University, Seoul
       time: 2012
       details: |
         Thesis: "As-parentheticals in English: A Construction-based Approach"
-          - [Committee - Se Youn Cho (Chair), Jong-bok Kim, Jae-Hak Yoon]
-          
+          - [Committee - Se Youn Cho (Chair), Jong-bok Kim, Jae-Hak Yoon]         
     - degree: B.A. in English Linguistics and Literature
       university: Chungnam National University, Daejeon
       time: 2009
-      details: |
-          
+      details: |          
     - degree: Certificate in Korean Language Teacher Training Program
       university: Korean Language Center at Korea University, Seoul
       time: 2015
       details: |
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -111,10 +85,8 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-
           - Bullet point
           - Bullet point
-
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -124,10 +96,8 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-
           - Bullet point
           - Bullet point
-
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
@@ -137,17 +107,14 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-
           - Bullet point
           - Bullet point
-
 projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
       - title: Velocity
         link: "#hook"
@@ -169,15 +136,49 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: LaTeX
+      - name: Python & Django
         level: 98%
 
+      - name: Javascript & jQuery
+        level: 98%
 
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
