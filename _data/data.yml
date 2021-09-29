@@ -165,7 +165,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: LaTeX
         level: 98%
 
       - name: Javascript & jQuery
