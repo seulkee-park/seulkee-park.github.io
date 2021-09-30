@@ -82,7 +82,15 @@ publications:
         link: "https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5019/4599"
         authors: Kim, Okgi and Seulkee Park.
         conference:  "Proceedings of the Linguistic Society of America 6(1): 806-814. https://doi.org/10.3765/plsa.v6i1.5019." 
+publications:
+    title: Publications
+    intro: |
 
+    papers:
+      - title: 2021. Correlations between island (in)sensitivity and base positions of (non-)standard wh-in-situ
+        link: "https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5019/4599"
+        authors: Kim, Okgi and Seulkee Park.
+        conference:  "Proceedings of the Linguistic Society of America 6(1): 806-814. https://doi.org/10.3765/plsa.v6i1.5019." 
    
 experiences:
     - role: Organizing Committee
