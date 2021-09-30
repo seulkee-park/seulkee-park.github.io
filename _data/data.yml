@@ -26,6 +26,16 @@ sidebar:
     GoogleScholar: https://scholar.google.com/citations?hl=ko&authuser=1&user=iyz8wxQAAAAJ
     pdf: https://drive.google.com/file/d/1QKn_G8F__7nP3xv4Lwx8BiqBk-kSCXYM/view
 
+    interests:
+      - item: Syntax in English and Korean
+        link:
+
+      - item: Construction Grammar
+        link:
+
+      - item: Corpus Linguistics
+        link:
+        
     languages:
       - idiom: Korean
         level: Native
@@ -36,15 +46,7 @@ sidebar:
       - idiom: Japanese, French
         level: Basic
 
-    interests:
-      - item: Syntax in English and Korean
-        link:
 
-      - item: Construction Grammar
-        link:
-
-      - item: Corpus Linguistics
-        link:
 
 career-profile:
     title: Seulkee Park
