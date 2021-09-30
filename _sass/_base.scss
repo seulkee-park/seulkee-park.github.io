@@ -170,7 +170,7 @@ p {
         margin-bottom: 60px;
     }
 
-    .experiences-section, .scholarships-section, .educations-section {
+    .experiences-section, .educations-section {
         .item {
             margin-bottom: 20px;
         }
@@ -198,6 +198,33 @@ p {
         color: $text-grey;
     }
 
+    .scholarships-section {
+        .item {
+            margin-bottom: 20px;
+        }
+    }
+    .upper-row {
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 2px;
+    }
+    .job-title, .degree {
+        color: $text-color;
+        font-size: 14px;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: 500;
+    }
+    .time {
+        position: absolute;
+        right: 0;
+        top: 0;
+        color: $text-grey;
+    }
+    .company, .university {
+        margin-bottom: 5px;
+        color: $text-grey;
+    }
     .project-title {
         font-size: 14px;
         font-weight: 400;
