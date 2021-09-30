@@ -83,9 +83,12 @@ publications:
         link: "#"
         authors: Kim, Okgi and Seulkee Park.
         conference:  "Proceedings of the Linguistic Society of America 6(1): 806-814. https://doi.org/10.3765/plsa.v6i1.5019." 
+        
+publications:        
     title: Presentations
     intro: |
-      papers:
+    
+    papers:
       - title: "Subjectless as-parenthetical constructions in English: A corpus-based approach (Commentary by Mark Davies)." 
         link: "#"
         authors: Park, Seulkee and Jong-Bok Kim.
