@@ -140,11 +140,11 @@ projects:
  
     assignments:
       - title: Research Assistant of Global Research Network Program
-        link: "#hook"
+        link: 
         tagline:  "2014-2017. Synchronic and Diachronic Aspects of English What Constructions: A Corpus-based Approach. [Members: Jong-Bok Kim, Mark Davies (Brigham Young University), Okgi Kim, Seulkee Park, and Rok Sim]"
 
       - title: Research Assistant of Principal Researcher
-        link: "#"
+        link: 
         tagline: "2011-2016. A Grammatical Interfaces in English and Korean: A Constraint-based Approach. [Members: Jong-Bok Kim, Seulkee Park and Okgi Kim]"
 
 skills:
