@@ -1,5 +1,5 @@
 {% assign presentations = site.data.data.presentations %}
-{% if publications %}
+{% if presentations %}
 <section class="section presentations-section">
 
   <h2 class="section-title">
@@ -12,13 +12,13 @@
 
   {% if presentations.intro %}
   <div class="intro">
-    {{ publications.intro | markdownify }}
+    {{ presentations.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
 
   {% for presentations in presentations.papers %}
   <div class="item">
-    {% if publication.link %}
+    {% if presentations.link %}
       <li><a href="{{ presentations.link }}">{{ presentations.title }}</a></li>
     {% else %}
       <li>{{ presentations.title }}</li>
