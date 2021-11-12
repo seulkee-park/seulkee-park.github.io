@@ -24,7 +24,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     GoogleScholar: https://scholar.google.com/citations?hl=ko&authuser=1&user=iyz8wxQAAAAJ
-    pdf: https://drive.google.com/file/d/1p8mqyW3YbyBmFzzgzp3DQiWm4baQkX9I/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1tEwnXleWVGHK-XVFC6w1XZfJ0avrQ69k/view?usp=sharing
 
     interests:
       - item: Syntax in English and Korean
@@ -80,10 +80,10 @@ publications:
     intro: |
 
     papers:
-      - title: "2021. Subjectless as-parenthetical constructions: A corpus-based approach"
+      - title: "Under Review. Subjectless as-parenthetical constructions: A corpus-based approach"
         link: 
         authors: Park, Seulkee and Jong-Bok Kim
-        conference: [Under Review]
+        conference: 
       - title: 2021. Correlations between island (in)sensitivity and base positions of (non-)standard wh-in-situ
         link: "https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5019/4599"
         authors: Kim, Okgi and Seulkee Park.
