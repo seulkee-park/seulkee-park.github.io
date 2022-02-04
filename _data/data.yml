@@ -264,7 +264,7 @@ skills:
     toolset:
       - name: LaTeX
         level: 98%
-      - name: SPSS, R
+      - name: SPSS, R, PCIbex Farm
         level: 50%
 
 footer: >
