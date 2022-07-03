@@ -51,14 +51,12 @@ sidebar:
 career-profile:
     title: Seulkee Park
     summary: |
-      I am a Ph.D. candidate in the department of English Linguistics at Kyung Hee University, Seoul. 
-      My research areas are Syntax and Corpus Linguistics in English and Korean. 
-      Currently, I am working on English ellipsis constructions such as as-parentheticals and stripping constructions from a Construction Grammar (CxG) perspective with my advisor Prof. Jong-Bok Kim.
-      My doctoral dissertation examines the elliptical distributions of stripping constructions in various adverbial clauses in English.
+      I recently defensed my PhD dissertation titled "Subordinate stripping in English: A construction-based analysis" in Kyung Hee University, Seoul.
+      Currently, I am working on English elliptical constructions such as stripping and deletion.
 education:
     - degree: PhD Candidate in English Linguistics
       university: Kyung Hee University, Seoul
-      time: Expected in 2022
+      time: Expected in August, 2022
       details: |
 
     - degree: MA in English Linguistics
@@ -148,60 +146,28 @@ presentations:
           
    
 experiences:
-    - role: "Visiting professor/Associate editor of Journal `Linguistic Research' indexed by SCOPUS"
+  - role: "Lecturer"
+      time: 2022 Aug - Present
+      company: Institute for the Study of Language and Information (ISLI), Kyung Hee University, Seoul
+      details: |
+      
+    - role: "Visiting professor"
       time: 2022 Mar - Present
       company: Institute for the Study of Language and Information (ISLI), Kyung Hee University, Seoul
       details: |
       
-    - role: Organizing Committee
-      time: 2021
-      company: Postgraduate Research Symposium on Linguistics, Language, and Speech (PRSLLS) - Hong Kong Polytechnic University
-      details: |
-
-    - role: Teaching Assistant of English Syntax (Prof. Jong-Bok Kim)
-      time: Spring 2021
-      company: Department of English Language and Literature, Kyung Hee University, Seoul
-      details: |
-
-    - role: Organization Staff
-      time: 2016
-      company: The 30th Pacific Asia Conference on Language, Information, and Computation (PACLIC). Kyung Hee University, Seoul
-      details: |
       
     - role: Copy Editor
       time: 2014-2016
       company: Institute for the Study of Language and Information (ISLI), Kyung Hee University, Seoul
       details: |
 
-    - role: Teaching Assistant 
-      time: 2015
-      company: School of English, Kyung Hee University, Seoul
-      details: |
-
+   
     - role: Lecturer
       time: 2014-2015
       company: The Center for Continuing Education, Kyung Hee University, Seoul
       details: |
-      
-    - role: Assistant Administrator
-      time: 2013
-      company: Korean Association of Corpus Linguistics (KACL)
-      details: |
-
-    - role: Teaching Tutor
-      time: 2012-2014
-      company: School of English, Kyung Hee University, Seoul
-      details: |
-
-    - role: Teaching Assistant
-      time: 2011-2012
-      company: Department of American Studies, Kyung Hee Cyber University
-      details: |
-
-    - role: Research Assistant
-      time: 2010-2011
-      company:  Center for Teaching and Learning, Kyung Hee University (KHCTL). Kyung Hee University, Seoul
-      details: |
+   
 
 projects:
     title: Projects
