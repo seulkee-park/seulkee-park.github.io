@@ -54,9 +54,9 @@ career-profile:
       "I recently defensed my PhD dissertation titled "Subordinate stripping in English: A construction-based analysis" in Kyung Hee University, Seoul.
       Currently, I am working on English elliptical constructions such as stripping and fragment."
 education:
-    - degree: PhD Candidate in English Linguistics
+    - degree: PhD in English Linguistics
       university: Kyung Hee University, Seoul
-      time: Expected in August, 2022
+      time: 2022
       details: |
 
     - degree: MA in English Linguistics
@@ -148,7 +148,7 @@ presentations:
 experiences:
   - role: "Lecturer"
       time: 2022 Aug - Present
-      company: Institute for the Study of Language and Information (ISLI), Kyung Hee University, Seoul
+      company: Department of English Language and Literature, Kyung Hee University, Seoul
       details: |
       
     - role: "Visiting professor"
