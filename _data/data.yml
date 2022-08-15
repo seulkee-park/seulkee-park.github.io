@@ -145,12 +145,12 @@ presentations:
           
    
 experiences:
-  - role: "Lecturer"
+  - role: Lecturer
       time: 2022 Aug - Present
       company: Department of English Language and Literature, Kyung Hee University, Seoul
       details: |
       
-    - role: "Visiting professor"
+    - role: Visiting professor
       time: 2022 Mar - Present
       company: Institute for the Study of Language and Information (ISLI), Kyung Hee University, Seoul
       details: |
