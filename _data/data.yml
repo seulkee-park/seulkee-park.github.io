@@ -7,45 +7,71 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Okgi Kim
-    tagline: PhD in Linguistics
+    name: Seulkee Park
+    tagline: PhD in English Linguistics
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: okgikim@gmail.com
+    email: seulkeepark@khu.ac.kr
     phone: 
-    website: okgikim.github.io #do not add http://
+    website: seulkee-park.github.io #do not add http://
     linkedin: 
     github: 
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: '@seulkee_park'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    ResearchGate: https://www.researchgate.net
-    GoogleScholar: https://scholar.google.com/citations?user=USiCyvgAAAAJ&hl=en&oi=ao
-    pdf: https://www.dropbox.com/s/h99feuu269ndh1f/CV.pdf?dl=0
+    GoogleScholar: https://scholar.google.com/citations?hl=ko&authuser=1&user=iyz8wxQAAAAJ
+    pdf: https://drive.google.com/file/d/1q7wPSI3Xz9DhC5N1B8jUcj1w28HTD9B2/view?usp=drive_link
 
-    Research Interests:
-      - item: Syntax-Semantics Interface
+    interests:
+      - item: Syntax in English and Korean
+        link:
+
+      - item: Construction Grammar
         link:
 
       - item: Corpus Linguistics
         link:
-
-    
         
-   
+    languages:
+      - idiom: Korean
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: Japanese, French
+        level: Basic
+
 
 
 career-profile:
-    title: About me
-    summary: I am a syntactician with research interests at the syntax-semantics interface. I am also interested in corpus linguistics. 
-In 2022, I received  a PhD in linguistics from the University of Wisconsin-Milwaukee (My advisor is Dr. Nicholas Fleisher). My dissertation centers on the syntax and semantics of non-standard wh-constructions in Korean (e.g., why-like what-interrogatives, what-exclamatives).
-Currently, I am working as a lecturer at Kyung Hee University and Chung-Ang University.  
+    title: Seulkee Park
+    summary: I am a Visiting Professor at the Institute for the Study of Language and Information (ISLI), Kyung Hee University, Seoul. My research areas are English and Korean syntax and corpus linguistics. Currently, I am investigating various fragmental constructions in subordinate structures. 
 
+education:
+    - degree: PhD in English Linguistics
+      university: Kyung Hee University, Seoul
+      time: 2022
+      details: |
 
+    - degree: MA in English Linguistics
+      university: Kyung Hee University, Seoul
+      time: 2012
+      details: |
+
+    - degree: BA in English Linguistics and Literature
+      university: Chungnam National University, Daejeon
+      time: 2009
+      details: |
+
+    - degree: Certificate in Korean Language Teacher Training Program
+      university: Korean Language Center at Korea University, Seoul
+      time: 2015
+      details: |
 
 
 publications:
@@ -91,7 +117,187 @@ dissertation:
         conference: "Kyung Hee University, Seoul." 
     
 
+    
+presentations:
+    title: Presentations
+    intro: |
+
+    papers:
+    
+      - title: "2023. A corpus-based study of N-bar ellipsis construction in English." 
+        link: "https://engleza.lls.unibuc.ro/conferinte/"
+        authors: Kim, Jihye, Seulkee Park, and Jong-Bok Kim.
+        conference: "The 24th Annual International Conference of the English Department (AICED-24). University of Bucharest, Romania. June 9-11."
+           
+      - title: "2023. Concessive <i>although</i>-stripping in English: A direct interpretation perspective." 
+        link: "https://lsa.syncedtool.com/shares/file/Y0DbrxpvYNr/"
+        authors: Park, Seulkee and Jong-Bok Kim.
+        conference: "The 98th Annual Meeting of 2023 Linguistic Society of America (LSA). Denver, CO. January 5-8."
+        
+ 
+      - title: "2022. English <i>although</i>-stripping constructions: A corpus-based investigation." 
+        link: "http://kasell.or.kr"
+        authors: Park, Seulkee, Hee-Yeon Kim, and Jong-Bok Kim.
+        conference: "2022 The Korean Association for the Study of English Language and Linguistics (KASELL) - Korean Assocation for Corpus Linguistics (KACL) Fall Joint Conference. Pusan, Korea: Pusan University. October 22."
+        
+      - title: "2022. A Direct Interpretation approach to English <i>if</i> (<i>not</i>)-stripping construction." 
+        link: "https://www.ling.upenn.edu/Events/PLC/plc46/index.html"
+        authors: Park, Seulkee and Jong-Bok Kim.
+        conference: "The 46th annual Penn Linguistics Conference (PLC46). Philadelphia, PA: University of Pennsylvania. March 18-20."
+        
+      - title: "2022. English <i>if</i> (<i>not</i>)-stripping construction: A direct interpretation perspective." 
+        link: "https://ills.linguistics.illinois.edu"
+        authors: Park, Seulkee and Jong-Bok Kim.
+        conference: "The 14th Annual Meeting of the Illinois Language and Linguistics Society (ILLS14). Urbana-Champaign, IL: University of Illinois Urbana-Champaign. February 25-26."
+        
+      - title: "2021. Subjectless <i>as</i>-parenthetical constructions in English: A corpus-based approach." 
+        link: 
+        authors: Park, Seulkee.
+        conference: "The 2021 Fall LSK Young Scholar Symposium. The Linguistic Society of Korea. October 21-22, 2021. Seoul, Korea."
+
+      - title: "2021. Subjectless <i>as</i>-parenthetical constructions in English: A corpus-based approach"
+        link: "https://linguistics.uga.edu/lcuga-7"
+        authors: Park, Seulkee and Jong-Bok Kim.
+        conference: "The 7th Annual Linguistics Conference at the University of Georgia (LCUGA7). Athens, GA: University of Georgia. October 9-10."
+
+      - title: "2021. Island sensitivity of (non-)standard <i>wh</i>-in-situ in Korean"
+        link: "https://www.linguisticsociety.org/event/lsa-2021-annual-meeting"
+        authors: Kim, Okgi and Seulkee Park.
+        conference: "A paper presentation at the 95th Annual Meeting of the Linguistic Society of America (LSA95). San Francisco, CA. January 7-10."
       
+      - title: "2017. English <i>as</i>-parenthetical Construction: A construction-based perspective"
+        link: "http://linguisticsprague.ff.cuni.cz"
+        authors: Park, Seulkee and Jong-Bok Kim.
+        conference: "Linguistics Prague 2017. Prague, Czech Republic: Charles University. April 27-29."
+       
+      - title: "2016. Mixed properties of English free relative Clause: A construction-based perspective"
+        link: "http://depts.washington.edu/uwnwlc/2016/"
+        authors: Baik, Jiseon, Seulkee Park, and Jong-Bok Kim.
+        conference: "The 32nd Annual Northwest Linguistics Conference (NWLC32). Seattle, WA: University of Washington. April 23-24."
+        
+      - title: "2014. A constructional account of the close apposition in English"
+        link: "https://web.ics.purdue.edu/~pla2006/symposium/2014/index.html"
+        authors: Park, Seulkee and Jong-Bok Kim.
+        conference: "Purdue Linguistics Association (PLA9) Symposium. West Lafayette, IN: Purdue University. March 28-29."
+        
+      - title: "2013. English <i>as</i>-parenthetical construction: Interactions between the lexicon and constructions"
+        link: "https://drive.google.com/file/d/1dH8Zhexdb0MxO_9ZBOSstMme7PNVO0yG/view"
+        authors: Park, Seulkee, Nam-Geun Lee, and Jong-Bok Kim.
+        conference: "Linguistic Association of the Southwest (LASSO42) XLII Preliminary Conference. New Brunswick, NJ: The College of New Jersey and West Chester University of Pennsylvania. September 26-28."
+        
+      - title: "2011. English conditional inversion: A construction-based approach"
+        link: "https://drive.google.com/file/d/1bOEQYb5O58HBh9sDPYBOlI_YlkKP34IB/view"
+        authors: Park, Seulkee and Jong-Bok Kim.
+        conference: "The 56th Annual Conference of the International Linguistic Association (ILA56), New York. New Brunswick, NJ: Rutgers University. April 15."
+          
+   
+experiences:
+ 
+ 
+    - role: Visiting Professor
+      time: 2022-Present
+      company: Institute for the Study of Language and Information (ISLI), Kyung Hee University, Seoul
+      details: |
+      
+      
+    - role: Copy Editor
+      time: 2014-2016
+      company: Institute for the Study of Language and Information (ISLI), Kyung Hee University, Seoul
+      details: |
+
+   
+    - role: Lecturer
+      time: 2014-2015
+      company: The Center for Continuing Education, Kyung Hee University, Seoul
+      details: |
+   
+teaching:
+
+    - role: English Composition
+      time: Fall 2023
+      company: Department of English Language and Literature, Kyung Hee University, Seoul
+      details: |
+
+    - role: Reading and Debating in English [Team teaching with Prof. Jong-Bok Kim]
+      time: Spring 2023
+      company: Department of English Language and Literature, Kyung Hee University, Seoul
+      details: |
+      
+ 
+    - role: English Composition
+      time: Fall 2022
+      company: Department of English Language and Literature, Kyung Hee University, Seoul
+      details: |
+      
+
+projects:
+    title: Projects
+    intro: >
+ 
+    assignments:
+      - title: Research Assistant of Global Research Network Program
+        link: 
+        tagline:  "2014-2015. Synchronic and Diachronic Aspects of English What Constructions: A Corpus-based Approach. [Members: Jong-Bok Kim, Mark Davies (Brigham Young University), Okgi Kim, Seulkee Park, and Rok Sim]"
+
+      - title: Research Assistant of Principal Researcher
+        link: 
+        tagline: "2011-2016. A Grammatical Interfaces in English and Korean: A Constraint-based Approach. [Members: Jong-Bok Kim, Seulkee Park and Okgi Kim]"
+
+scholarships:
+    - role: The National Research Scholarship for Humanities and Social Sciences 
+      time: 2014-2015
+      company: "[Merit-based $8K scholarship] KOSAF by the Korean Government"
+      details: |
+
+    - role: International Conference Presentation Abroad Travel Award
+      time: Aug 2017
+      company: "Graduate School &amp; Graduate School Student Council, Kyung Hee University. Seoul"
+      details: |
+
+    - role: Magnolia Scholarship
+      time: 2014-2015
+      company: Graduate School, Kyung Hee University, Seoul
+      details: |
+      
+    - role: Teaching Assistant Scholarship
+      time: 2015
+      company: Graduate School, Kyung Hee University. Seoul
+      details: |
+
+    - role: International Conference Presentation Abroad Travel Award
+      time: Aug 2014
+      company: Graduate School, Kyung Hee University. Seoul
+      details: |
+
+    - role: International Conference Presentation Abroad Travel Award
+      time: Feb 2014
+      company: Graduate School, Kyung Hee University. Seoul
+      details: |
+      
+    - role: Research-Advisor Matching Scholarship
+      time: 2013-2014
+      company: Graduate School, Kyung Hee University. Seoul
+      details: |
+
+    - role: International Conference Presentation Abroad Travel Award
+      time: Aug 2011
+      company: Graduate School, Kyung Hee University. Seoul
+      details: |
+
+    - role: Research Assistant Scholarship
+      time: 2010-2011
+      company: Department of Global Education, Center for Teaching and Learning, Kyung Hee University (KHCTL). Kyung Hee University, Seoul
+      details: |
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: LaTeX
+        level: 98%
+      - name: SPSS, R, PCIbex Farm
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
