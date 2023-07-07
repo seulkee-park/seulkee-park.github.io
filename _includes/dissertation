@@ -18,13 +18,13 @@
 
   {% for dissertation in dissertation.papers %}
   <div class="item">
-    {% if publication.link %}
-      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+    {% if dissertation.link %}
+      <li><a href="{{ dissertation.link }}">{{ dissertation.title }}</a></li>
     {% else %}
-      <li>{{ publication.title }}</li>
+      <li>{{ dissertation.title }}</li>
     {% endif %}
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
+    <div class="dissertation-authors">{{ dissertation.authors }}</div>
+    <div class="dissertation-conference">{{ dissertation.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
