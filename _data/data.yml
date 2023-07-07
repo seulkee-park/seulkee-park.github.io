@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Seulkee Park
-    tagline: PhD in English Linguistics
+    name: Okgi Kim
+    tagline: PhD in Linguistics
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: seulkeepark@khu.ac.kr
+    email: okgi.kim@gmail.com
     phone: 
-    website: seulkee-park.github.io #do not add http://
+    website: okgikim.github.io #do not add http://
     linkedin: 
     github: 
     gitlab:
     bitbucket:
-    twitter: '@seulkee_park'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -30,21 +30,21 @@ sidebar:
       - item: Syntax in English and Korean
         link:
 
-      - item: Construction Grammar
+      - item: Corpus Linguistics
         link:
 
-      - item: Corpus Linguistics
+      - item: 
         link:
         
     languages:
-      - idiom: Korean
-        level: Native
+      - idiom: 
+        level: 
 
-      - idiom: English
-        level: Professional
+      - idiom: 
+        level: 
 
-      - idiom: Japanese, French
-        level: Basic
+      - idiom: 
+        level: 
 
 
 
