@@ -1,0 +1,32 @@
+{% assign progress = site.data.data.progress %}
+{% if progress %}
+<section class="section progress-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ progress.title }}
+  </h2>
+
+  {% if progress.intro %}
+  <div class="intro">
+    {{ progress.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for progress in progress.papers %}
+  <div class="item">
+    {% if progress.link %}
+      <li><a href="{{ progress.link }}">{{ progress.title }}</a></li>
+    {% else %}
+      <li>{{ progress.title }}</li>
+    {% endif %}
+    <div class="progress-authors">{{ progress.authors }}</div>
+    <div class="progress-conference">{{ progress.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
