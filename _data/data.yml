@@ -105,6 +105,19 @@ publications:
         authors: Kim, Okgi and Seulkee Park
         conference:  "<i>Proceedings of the Linguistic Society of America</i> 6(1): 806-814. https://doi.org/10.3765/plsa.v6i1.5019" 
 
+dissertation:
+    title: Ph.D. Dissertation
+    intro: |
+
+    papers:
+        
+      - title: "2022. Subordinate stripping in English: A construction-based analysis."
+        link: "https://drive.google.com/file/d/1e1nb3s47lVEW5bPkY9x_pkVJ8ynDoair/view?usp=sharing"
+        authors: Advisor: Jong-Bok Kim, Committee: Haeil Park (Chair), Se Youn Cho, Jong-bok Kim, Jae-Hak Yoon, and Incheol Choi
+        conference: "Kyung Hee University, Seoul." 
+    
+
+    
 presentations:
     title: Presentations
     intro: |
