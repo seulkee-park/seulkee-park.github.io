@@ -214,7 +214,7 @@ experiences:
    
 teaching:
 
-    - role: ENGLI2012-English Composition, ENGLI2013-English Word Practice
+    - role: ENGLI2012-English Composition <br> ENGLI2013-English Word Practice
       time: Fall 2023
       company: Department of English Language and Literature, Kyung Hee University, Seoul
       details: |
