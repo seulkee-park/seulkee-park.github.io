@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: okgi.kim@gmail.com
     phone: 
-    website:  #do not add http://
-    ORCiD: https://orcid.org/0009-0002-2092-0886
-    github: 
+    website: orcid.org/0009-0002-2092-0886  #do not add http://
+    ORCiD: 
+    github: https://okgikim.github.io
     gitlab:
     bitbucket:
-    twitter: 
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
