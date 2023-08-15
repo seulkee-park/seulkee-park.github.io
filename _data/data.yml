@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: okgi.kim@gmail.com
     phone: 
-    website: orcid.org/0009-0002-2092-0886 #do not add http://
-    linkedin: 
+    website:  #do not add http://
+    ORCiD: https://orcid.org/0009-0002-2092-0886
     github: 
     gitlab:
     bitbucket:
