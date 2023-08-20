@@ -85,6 +85,12 @@
     </li>
     {% endif %}
     
+      {% if sidebar.ResearchGate %}
+    <li class="ResearchGate"><i class="fas fa-globe-americas"></i>
+      <a href="{{ sidebar.ResearchGate }}" target="_blank">ResearchGate</a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
       <a href="{{ sidebar.pdf }}" target="_blank">CV PDF</a>
