@@ -12,10 +12,10 @@
       {{ language.idiom }}
       <span class="lang-desc">({{ language.level }})</span>
     </li>
-    {% if languages.link %}
-      <li><a href="{{ languages.link }}">{{ languages.item }}</a></li>
+    {% if language.link %}
+      <li><a href="{{ language.link }}">{{ language.item }}</a></li>
       {% else %}
-      <li>{{ languages.item }}</li>
+      <li>{{ language.item }}</li>
       {% endif %}
     {% endfor %}
   </ul>
