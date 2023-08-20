@@ -40,9 +40,11 @@ sidebar:
     languages:
       - idiom: Prof. Jong-Bok Kim
         level: Kyung Hee University
+        link: http://web.khu.ac.kr/~jongbok/
 
       - idiom: Dr. Okgi Kim
         level: Kyung Hee University / Chung-Ang University
+        link: https://okgikim.github.io
 
 
 
