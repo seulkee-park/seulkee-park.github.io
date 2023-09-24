@@ -59,11 +59,8 @@ progress:
         link: 
         authors: 
         conference: 
-              <br /> 
-      - title: "Kim, Dong-Jin, Okgi Kim, and Hanyong Park. under review (2nd round). <strong>Prosodic realization of identification and contrastive focus in Korean multiple accusative constructions</strong>. <i>Glossa</i>."
-        link: 
-        authors: 
-        conference:
+           
+    
 
     
     
@@ -72,8 +69,13 @@ publications:
     intro: |
 
     papers:
+
+      - title: "Kim, Dong-Jin, Okgi Kim, and Hanyong Park. under review (2nd round). <strong>Prosodic realization of identification and contrastive focus in Korean multiple accusative constructions</strong>. conditionally accepted. <i>Glossa</i>. [SSCI, A&HCI]"
+        link: 
+        authors: 
+        conference:
         
-      - title: "Kim, Jungsoo and Okgi Kim. 2023. <strong>Diachronic developments of the concessive <i>though</i>-fronting construction in American English: A corpus-based perspective</strong>. <i>English Studies</i> 104(5): 804-831. [A\&HCI]"
+      - title: "Kim, Jungsoo and Okgi Kim. 2023. <strong>Diachronic developments of the concessive <i>though</i>-fronting construction in American English: A corpus-based perspective</strong>. <i>English Studies</i> 104(5): 804-831. [A&HCI]"
         link: https://www.tandfonline.com/doi/full/10.1080/0013838X.2023.2249724?src=
         authors: 
         conference:
