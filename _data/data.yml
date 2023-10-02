@@ -374,20 +374,65 @@ experiences:
    
 teaching:
 
-    - role: English Composition
+    - role: English Grammar
+      time: Fall 2023
+      company: Department of English Language and Literature, Chung-Ang University, Seoul
+      details: |
+
+    - role: English Syntax 
+      time: Fall 2023
+      company: Department of English Language and Literature, Chung-Ang University, Seoul
+      details: |
+      
+ 
+    - role: Modern Grammar & Analysis of Constructions
       time: Fall 2023
       company: Department of English Language and Literature, Kyung Hee University, Seoul
       details: |
 
-    - role: Reading and Debating in English [Team teaching with Prof. Jong-Bok Kim]
+    - role: Introduction to English Linguistics
+      time: Fall 2023
+      company: Department of English Language and Literature, Kyung Hee University, Seoul
+      details: |
+
+    - role: Studies in Contemporary Syntactic Theories
+      time: Spring 2023
+      company: Department of English Language and Literature, Graduate School, Chung-Ang University, Seoul
+      details: |
+
+    - role: Introduction to English Syntax
+      time: Spring 2023
+      company: Department of English Language and Literature, Graduate School, Chung-Ang University, Seoul
+      details: |
+
+    - role: Big Data and English Learning [Team Teachng with Prof. Jong-Bok Kim]
       time: Spring 2023
       company: Department of English Language and Literature, Kyung Hee University, Seoul
       details: |
-      
- 
-    - role: English Composition
+
+    - role: History of the English Language
+      time: Spring 2023
+      company: Department of English Language and Literature, Kyung Hee University, Seoul
+      details: |
+
+    - role: Introduction to English Linguistics
       time: Fall 2022
       company: Department of English Language and Literature, Kyung Hee University, Seoul
+      details: |
+
+    - role: English Semantics and Pragmatics
+      time: Fall 2022
+      company: Department of English Language and Literature, Kyung Hee University, Seoul
+      details: |
+
+    - role: LINGUIS 100: The Diversity of Human Language
+      time: Fall 2019 - Spring 2021
+      company: Department of Linguistics, University of Wisconsin-Milwaukee, USA
+      details: |
+
+    - role: LINGUIS 100: The Diversity of Human Language [Discussion section instructor, taught by Dr. Kelsie Pattillo]
+      time: Fall 2018 - Spring 2019
+      company: Department of Linguistics, University of Wisconsin-Milwaukee, USA
       details: |
       
 
