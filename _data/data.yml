@@ -59,10 +59,10 @@ career-profile:
 publications:
     title: Publications
     intro: |
-
     papers:  
-      - title: <a href="http://isli.khu.ac.kr/journal/content/data/40_2/4.pdf" target="_blank">2023. Concessive <i>although</i>-stripping and its theoretical implications.</a>
-        link: 
+    
+      - title: 2023. Concessive <i>although</i>-stripping and its theoretical implications.
+        link: "http://isli.khu.ac.kr/journal/content/data/40_2/4.pdf"
         authors: <b class="term">Park, Seulkee</b> and Jong-Bok Kim
         conference: "<i>Linguistic Research</i> 40(2): 245-270.<br> https://doi.org/10.17250/khisli.40.2.202306.004 [ESCI, Scopus indexed]" 
 
@@ -85,8 +85,7 @@ publications:
         link: "https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5019/4599"
         authors: Kim, Okgi and <b class="term">Seulkee Park</b>
         conference:  "<i>Proceedings of the Linguistic Society of America</i> 6(1): 806-814. https://doi.org/10.3765/plsa.v6i1.5019" 
-    
-     
+
 
 dissertation:
     title: Ph.D. Dissertation
