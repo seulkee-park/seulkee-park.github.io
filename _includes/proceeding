@@ -1,0 +1,32 @@
+{% assign proceeding = site.data.data.proceeding %}
+{% if proceeding %}
+<section class="section proceeding-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ proceeding.title }}
+  </h2>
+
+  {% if proceeding.intro %}
+  <div class="intro">
+    {{ proceeding.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for proceeding in proceeding.papers %}
+  <div class="item">
+    {% if proceeding.link %}
+      <li><a href="{{ proceeding.link }}">{{ proceeding.title }}</a></li>
+    {% else %}
+      <li>{{ proceeding.title }}</li>
+    {% endif %}
+    <div class="proceeding-authors">{{ proceeding.authors }}</div>
+    <div class="proceeding-conference">{{ proceeding.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
