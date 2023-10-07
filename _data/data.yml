@@ -82,11 +82,6 @@ publications:
         authors: 
         conference: 
         
-      - title: "Kim, Okgi. 2022. <strong>There are 'what'-exclamatives in Korean!</strong> In Özge Bakay, Breanna Pratley, Eva Neu, and Peyton Deal, <i>Proceedings of the 52nd Annual Meeting of the North East Linguistic Society</i> (NELS 52), 149-158."
-        link: https://ling.auf.net/lingbuzz/006672
-        authors: 
-        conference:
-        
       - title: "Kim, Okgi. 2022. <strong>On <i>Why</i>-like <i>How</i>-Questions</strong>. <i>Studies in Generative Grammar</i> 32(3): 383-404."
         link: https://www.researchgate.net/publication/363333227_On_Why-like_How-questions_in_Korean
         authors: 
@@ -147,7 +142,18 @@ publications:
         authors: 
         conference:
      
-     
+ publications:
+    title: Publications
+    intro: |
+
+    papers:
+    
+      - title: "Kim, Okgi. 2022. <strong>There are 'what'-exclamatives in Korean!</strong> In Özge Bakay, Breanna Pratley, Eva Neu, and Peyton Deal, <i>Proceedings of the 52nd Annual Meeting of the North East Linguistic Society</i> (NELS 52), 149-158."
+        link: https://ling.auf.net/lingbuzz/006672
+        authors: 
+        conference:
+        
+    
 
 dissertation:
     title: PhD Dissertation
