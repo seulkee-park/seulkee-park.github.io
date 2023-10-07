@@ -18,7 +18,7 @@
 
   {% for proceedings in proceedings.papers %}
   <div class="item">
-    {% if progress.link %}
+    {% if proceedings.link %}
       <li><a href="{{ proceedings.link }}">{{ proceedings.title }}</a></li>
     {% else %}
       <li>{{ proceedings.title }}</li>
