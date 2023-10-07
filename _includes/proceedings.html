@@ -1,5 +1,5 @@
 {% assign proceedings = site.data.data.proceedings %}
-{% if publications %}
+{% if proceedings %}
 <section class="section proceedings-section">
 
   <h2 class="section-title">
@@ -16,15 +16,15 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for proceeding in proceedings.papers %}
+  {% for proceedings in proceedings.papers %}
   <div class="item">
-    {% if proceeding.link %}
-      <li><a href="{{ proceeding.link }} style="color: black">{{ proceeding.title }}</a></li>
+    {% if proceedings.link %}
+      <li><a href="{{ proceedings.link }} style="color: black">{{ proceedings.title }}</a></li>
     {% else %}
-      <li>{{ proceeding.title }}</li>
+      <li>{{ proceedings.title }}</li>
     {% endif %}
-    <div class="proceeding-authors">{{ proceeding.authors }}</div>
-    <div class="proceeding-conference">{{ proceeding.conference }}</div>
+    <div class="proceedings-authors">{{ proceedings.authors }}</div>
+    <div class="proceedings-conference">{{ proceedings.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
