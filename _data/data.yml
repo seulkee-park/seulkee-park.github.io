@@ -238,12 +238,14 @@ experiences:
    
 teaching:
 
-    - role: Foreign Language Acquisition </br> Reading and Debating in English (for Linguistics major course) <br> Understanding English Syntactic Phenomena [Team Teaching with Prof. Jong-Bok Kim] <br> Big Data and English Learning (Corpus Linguistics) [Team Teaching with Dr. Okgi Kim]
+    - role: Major courses
       time: Spring 2024
       company: Department of English Language and Literature, Kyung Hee University, Seoul
       details: |
-            - Bullet point
-            - Bullet point
+            - Foreign Language Acquisition
+            - Reading and Debating in English 
+            - Understanding English Syntactic Phenomena [Team Teaching with Prof. Jong-Bok Kim]
+            - Big Data and English Learning (Corpus Linguistics) [Team Teaching with Dr. Okgi Kim]
     - role: English Composition (for Linguistics major course) <br> English Word Practice (Introduction to English Morphology)
       time: Fall 2023
       company: Department of English Language and Literature, Kyung Hee University, Seoul
