@@ -246,22 +246,23 @@ teaching:
             - Reading and Debating in English 
             - Understanding English Syntactic Phenomena [Team Teaching with Prof. Jong-Bok Kim]
             - Big Data and English Learning (Corpus Linguistics) [Team Teaching with Dr. Okgi Kim]
-    - role: English Composition (for Linguistics major course) <br> English Word Practice (Introduction to English Morphology)
-      time: Fall 2023
+    - role: Fall 2023
+      time: 
       company: Department of English Language and Literature, Kyung Hee University, Seoul
       details: |
-
-    - role: Reading and Debating in English (for Linguistics major course) <br> [Team teaching with Prof. Jong-Bok Kim]
-      time: Spring 2023
+            - English Composition
+            - English Word Practice (Introduction to English Morphology)
+    - role: Spring 2023
+      time: 
       company: Department of English Language and Literature, Kyung Hee University, Seoul
       details: |
-      
+            - Reading and Debating in English [Team teaching with Prof. Jong-Bok Kim]
  
-    - role: English Composition (for Linguistics major course)
-      time: Fall 2022
+    - role: Fall 2022 
+      time: 
       company: Department of English Language and Literature, Kyung Hee University, Seoul
       details: |
-      
+            - English Composition
 
 projects:
     title: Projects
