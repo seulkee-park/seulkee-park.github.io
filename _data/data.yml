@@ -238,8 +238,8 @@ experiences:
    
 teaching:
 
-    - role: Major courses
-      time: Spring 2024
+    - role: Spring 2024
+      time: 
       company: Department of English Language and Literature, Kyung Hee University, Seoul
       details: |
             - Foreign Language Acquisition
