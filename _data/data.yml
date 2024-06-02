@@ -265,17 +265,17 @@ projects:
     intro: >
  
     assignments:
-      - title: Research Assistant of Global Research Network Program
+      - title: Principal Investigator of ``[NRF] Academic Research Professors Program (Type B)''
         link: 
-        tagline:  "2014-2015. Synchronic and Diachronic Aspects of English What Constructions: A Corpus-based Approach. [Members: Jong-Bok Kim, Mark Davies (Brigham Young University), Okgi Kim, Seulkee Park, and Rok Sim]"
+        tagline:  "2014-2015. Parenthetical predicates in <i>as<i/>-clauses with absence of the subject in English: A corpus-based analysis"
 
-      - title: Research Assistant of Global Research Network Program
+      - title: Co-investigator of ``[NRF] General Joint Research''
         link: 
-        tagline:  "2014-2015. Synchronic and Diachronic Aspects of English What Constructions: A Corpus-based Approach. [Members: Jong-Bok Kim, Mark Davies (Brigham Young University), Okgi Kim, Seulkee Park, and Rok Sim]"
+        tagline:  "Apr 2014-Present. Response systems in natural languages: An empirical and experimental investigation. [PI: Jong-Bok Kim]"
 
-      - title: Research Assistant of Principal Researcher
+      - title: Co-investigator of ``[NRF] Korea-Spain International Mobility Program''
         link: 
-        tagline: "2011-2016. A Grammatical Interfaces in English and Korean: A Constraint-based Approach. [Members: Jong-Bok Kim, Seulkee Park and Okgi Kim]"
+        tagline: "Oct 2023- Sep 2024. Implications from big data for the language of response in Korean, Spanish, and English. [PI: Jong-Bok Kim]"
 
 scholarships:
     - role: The National Research Scholarship for Humanities and Social Sciences 
@@ -283,45 +283,18 @@ scholarships:
       company: "[Merit-based $8K scholarship] KOSAF by the Korean Government"
       details: |
 
-    - role: International Conference Presentation Abroad Travel Award
-      time: Aug 2017
-      company: "Graduate School &amp; Graduate School Student Council, Kyung Hee University. Seoul"
-      details: |
 
     - role: Magnolia Scholarship
       time: 2014-2015
       company: Graduate School, Kyung Hee University, Seoul
       details: |
       
-    - role: Teaching Assistant Scholarship
-      time: 2015
-      company: Graduate School, Kyung Hee University. Seoul
-      details: |
-
-    - role: International Conference Presentation Abroad Travel Award
-      time: Aug 2014
-      company: Graduate School, Kyung Hee University. Seoul
-      details: |
-
-    - role: International Conference Presentation Abroad Travel Award
-      time: Feb 2014
-      company: Graduate School, Kyung Hee University. Seoul
-      details: |
       
     - role: Research-Advisor Matching Scholarship
       time: 2013-2014
       company: Graduate School, Kyung Hee University. Seoul
       details: |
 
-    - role: International Conference Presentation Abroad Travel Award
-      time: Aug 2011
-      company: Graduate School, Kyung Hee University. Seoul
-      details: |
-
-    - role: Research Assistant Scholarship
-      time: 2010-2011
-      company: Department of Global Education, Center for Teaching and Learning, Kyung Hee University (KHCTL). Kyung Hee University, Seoul
-      details: |
 
 
 skills:
