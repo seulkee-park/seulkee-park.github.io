@@ -159,7 +159,6 @@ presentations:
         link: "https://lsa.syncedtool.com/shares/file/Y0DbrxpvYNr/"
         authors: Park, Seulkee and Jong-Bok Kim.
         conference: "The 98th Annual Meeting of 2023 Linguistic Society of America (LSA). Denver, CO. January 5-8."
-        
  
       - title: "2022. English <i>although</i>-stripping constructions: A corpus-based investigation." 
         link: "http://kasell.or.kr"
@@ -224,7 +223,7 @@ experiences:
       company: Department of English Linguistics and Literature, Kyung Hee University, Seoul
       details: |
 
-     - role: Lecturer
+    - role: Lecturer
       time: Sep 2024 - Present
       company: College of General Education, Kookmin University
       details: |
@@ -247,7 +246,6 @@ experiences:
       details: |
    
 teaching:
-
     - role: Fall 2024
       time: 
       company: Department of English Linguistics and Literature, Kyung Hee University, Seoul
