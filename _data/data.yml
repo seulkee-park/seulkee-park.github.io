@@ -56,7 +56,7 @@ career-profile:
 
 
 publications:
-    title: Publications
+    title: Peer-reviewed publications
     intro: |
     
     papers:  
@@ -70,11 +70,6 @@ publications:
         link: "http://isli.khu.ac.kr/journal/content/data/40_2/4.pdf"
         authors: <b class="term">Park, Seulkee</b> and Jong-Bok Kim
         conference: "<i>Linguistic Research</i> 40(2): 245-270.<br> https://doi.org/10.17250/khisli.40.2.202306.004 [ESCI, Scopus indexed]" 
-         
-      - title: "2023. A discourse-based approach to concessive <i>although</i>-stripping in English."
-        link: "https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5453"
-        authors: <b class="term">Park, Seulkee</b> and Jong-Bok Kim
-        conference: "<i>Proceedings of the Linguistic Society of America</i> 8(1): 5453. https://doi.org/10.3765/plsa.v8i1.5453"
 
       - title: "2022. English <i>if (not)</i>-stripping constructions: A direct interpretation approach."
         link: "http://journal.kasell.or.kr/xml/34004/34004.pdf"
@@ -86,10 +81,6 @@ publications:
         authors: <b class="term">Park, Seulkee</b> and Jong-Bok Kim
         conference: "<i>The Linguistic Association of Korea Journal</i> 29(4): 93-112. https://doi.org/10.24303/lakdoi.2021.29.4.93 [KCI indexed]"
         
-      - title: "2021. Correlations between island (in)sensitivity and base positions of (non-)standard <i>wh</i>-in-situ."
-        link: "https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5019"
-        authors: Kim, Okgi and <b class="term">Seulkee Park</b>
-        conference:  "<i>Proceedings of the Linguistic Society of America</i> 6(1): 806-814. https://doi.org/10.3765/plsa.v6i1.5019" 
 
 proceedings:
     title: Proceedings
@@ -97,11 +88,15 @@ proceedings:
     
     papers:  
         
-      - title: 2024. Contextual anaphora relations in English nominal ellipsis.
-        link: "http://isli.khu.ac.kr/journal/content/data/41_1/3.pdf"
-        authors: <b class="term">Park, Seulkee</b>, Jong-Bok Kim, and Eunjeong Oh.
-        conference: "<i>Linguistic Research</i> 41(1): 65-90. <br> https://doi.org/10.17250/khisli.41.1.202403.003 [ESCI, Scopus indexed]" 
-         
+      - title: "2023. A discourse-based approach to concessive <i>although</i>-stripping in English."
+        link: "https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5453"
+        authors: <b class="term">Park, Seulkee</b> and Jong-Bok Kim
+        conference: "<i>Proceedings of the Linguistic Society of America</i> 8(1): 5453. https://doi.org/10.3765/plsa.v8i1.5453"
+     
+      - title: "2021. Correlations between island (in)sensitivity and base positions of (non-)standard <i>wh</i>-in-situ."
+        link: "https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5019"
+        authors: Kim, Okgi and <b class="term">Seulkee Park</b>
+        conference:  "<i>Proceedings of the Linguistic Society of America</i> 6(1): 806-814. https://doi.org/10.3765/plsa.v6i1.5019" 
     
 dissertation:
     title: Ph.D. Dissertation
