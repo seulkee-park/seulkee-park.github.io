@@ -1,0 +1,32 @@
+{% assign proceedings = site.data.data.proceedings %}
+{% if proceedings %}
+<section class="section proceedings-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ proceedings.title }}
+  </h2>
+
+  {% if proceedings.intro %}
+  <div class="intro">
+    {{ proceedings.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for proceedings in proceedings.papers %}
+  <div class="item">
+    {% if proceedings.link %}
+      <li><a href="{{ proceedings.link }}">{{ proceedings.title }}</a></li>
+    {% else %}
+      <li>{{ proceedings.title }}</li>
+    {% endif %}
+    <div class="proceedings-authors">{{ proceedings.authors }}</div>
+    <div class="proceedings-conference">{{ proceedings.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
