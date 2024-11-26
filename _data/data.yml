@@ -229,7 +229,7 @@ presentations:
           
    
 experiences:
- 
+            
     - role: Lecturer
       time: Mar 2024 - Present
       company: Department of English Linguistics and Literature, Kyung Hee University, Seoul
@@ -257,6 +257,13 @@ experiences:
    
 teaching:
 
+     - role: Spring 2025
+      time: 
+      company: Department of English Linguistics and Literature, Kyung Hee University, Seoul
+      details: |
+            - ENGLI3008 Foreign Language Acquisition
+            - ENGLI2005 Reading and Debating in English
+            
     - role: Fall 2024
       time: 
       company: Department of English Linguistics and Literature, Kyung Hee University, Seoul
@@ -279,6 +286,7 @@ teaching:
             - ENGLI2005 Reading and Debating in English 
             - ENGLI3001 Understanding English Syntactic Phenomena [Team Teaching with Prof. Jong-Bok Kim]
             - ENGLI2007 Big Data and English Learning (Corpus Linguistics) [Team Teaching with Dr. Okgi Kim]
+            
     - role: Fall 2023
       time: 
       company: Department of English Linguistics and Literature, Kyung Hee University, Seoul
