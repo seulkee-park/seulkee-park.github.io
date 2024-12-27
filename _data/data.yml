@@ -51,7 +51,7 @@ sidebar:
 
 career-profile:
     title: Seulkee Park
-    summary: I am a Lecturer at Kyung Hee University (English Linguistics and Literature) and Kookmin University (General Education) in Seoul. My primary research areas focus on discourse syntax and corpus linguistics in English. My ongoing research lies within the domains of diverse elliptical constructions in English, including but not limited to stripping, nominal ellipsis, and fragmental structures like sluicing, based on a discourse information analysis.
+    summary: I am a Lecturer at Kyung Hee University and Chung-Ang University (English Linguistics and Literature) in Seoul. My primary research areas focus on discourse syntax and corpus linguistics in English. My ongoing research lies within the domains of diverse elliptical constructions in English, including but not limited to stripping, nominal ellipsis, and fragmental structures like sluicing, based on a discourse information analysis.
 
 
 
@@ -235,12 +235,17 @@ presentations:
 experiences:
             
     - role: Lecturer
+      time: Mar 2025 - Present
+      company: Department of English Linguistics and Literature, Chung-Ang University, Seoul
+      details: |
+      
+    - role: Lecturer
       time: Mar 2024 - Present
       company: Department of English Linguistics and Literature, Kyung Hee University, Seoul
       details: |
-
+      
     - role: Lecturer
-      time: Sep 2024 - Present
+      time: Sep 2024 - Feb 2025
       company: College of General Education, Kookmin University
       details: |
 
@@ -266,10 +271,16 @@ teaching:
       details: |
             - ENGLI3008 Foreign Language Acquisition
             - ENGLI2005 Reading and Debating in English
+    
+    - role: Spring 2025
+      time: 
+      company: Department of English Language and Literature, Chung-Ang University, Seoul
+      details: |
+            - 15273 Introduction to English Linguistics
             
     - role: Fall 2024
       time: 
-      company: Department of English Linguistics and Literature, Kyung Hee University, Seoul
+      company: Department of English Language and Literature, Kyung Hee University, Seoul
       details: |
             - ENGLI3017 Modern Grammar and Analysis of Constructions
             - ENGLI2012 English Composition
