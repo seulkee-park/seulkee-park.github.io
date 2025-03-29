@@ -60,7 +60,12 @@ publications:
     intro: |
     
     papers:  
-        
+
+      - title: 2025. Fragmental patterns in <i>let alone</i> construction: A corpus-based investigation.
+        link: ""
+        authors: <b class="term">Park, Seulkee</b> and Jong-Bok Kim.
+        conference: "<i>Korean Journal of English Language and Linguistics</i> Vol. 25 <br> [Scopus indexed]" 
+     
       - title: 2024. Contextual anaphora relations in English nominal ellipsis.
         link: "http://isli.khu.ac.kr/journal/content/data/41_1/3.pdf"
         authors: <b class="term">Park, Seulkee</b>, Jong-Bok Kim, and Eunjeong Oh.
