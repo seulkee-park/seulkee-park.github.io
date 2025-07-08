@@ -361,10 +361,6 @@ projects:
     intro: >
  
     assignments:
-      - title: Jun 2024 - May 2025. Principal Investigator of ``[NRF] Academic Research Professors Program (Type B)''
-        link: #
-        tagline:  "Parenthetical predicates in <i>as</i>-clauses with absence of the subject in English: A corpus-based analysis"
-
       - title: Jun 2025 - Present. Postdoctoral Researcher of ``[NRF] Global Humanities and Social Sciences Convergence Research Support Program''
         link: #
         tagline:  "LLM-Based Research on the Communication Systems in Traditional Korean Medicine (TKM): Linguistic Perspectives and Machine Learning Applications [PI: Jong-Bok Kim]."
@@ -372,6 +368,10 @@ projects:
       - title: Oct 2024 - Present. Affiliated Member of ``LVTC (Language Variation and Textual Categorisation) Research Group'' in Spain
         link: https://lvtc.uvigo.es/people/seulkeepark#
         tagline: "Team Coordinator: Prof. Javier Pérez-Guerra (University of Vigo, Spain)"
+
+      - title: Jun 2024 - May 2025. Principal Investigator of ``[NRF] Academic Research Professors Program (Type B)''
+        link: #
+        tagline:  "Parenthetical predicates in <i>as</i>-clauses with absence of the subject in English: A corpus-based analysis"
 
       - title: Apr 2024 - Jun 2025. Co-investigator of ``[NRF] General Joint Research''
         link: #
