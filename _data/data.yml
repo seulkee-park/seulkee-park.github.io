@@ -136,6 +136,11 @@ presentations:
     intro: |
 
     papers:   
+      - title: "2025. Food-based mataphors of nouns and verbs in Korean medical discourse: A big data-based perspective" 
+        link: "https://vlsp.org.vn/paclic2025/"
+        authors: Park, Seulkee, Jong-Bok Kim, and Charmgil Hong.
+        conference: "The 39th Pacific Asia Conference on Language, Information and Computation (PACLIC 39). December 5-7. Hanoi, Vietnam: Vietnam Institute for Advanced Study in Mathematics."
+
       - title: "2025. English <i>much less</i> construction: A corpus-based perspective" 
         link: "https://societaslinguistica.eu/sle2025/"
         authors: Park, Seulkee and Jong-Bok Kim.
