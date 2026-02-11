@@ -105,7 +105,11 @@ proceedings:
     intro: |
     
     papers:  
-        
+      - title: "2025. Conceptual Metaphors in Food Reviews: LLM-Based Implications for Korean Discourse"
+        link: "http://isli.khu.ac.kr/paclic/pdfs/39/2025.PACLIC_39-1.81.pdf"
+        authors: Charmgil Hong, Jong-Bok Kim, <b class="term">Park, Seulkee</b> and Yunseong Choe
+        conference: "<i>The 39th Pacific Asia Conference on Language, Information and Computation (PACLIC 38)</i>, 838-840. [Scopus indexed]"
+           
       - title: "2023. A discourse-based approach to concessive <i>although</i>-stripping in English"
         link: "https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5453"
         authors: <b class="term">Park, Seulkee</b> and Jong-Bok Kim
