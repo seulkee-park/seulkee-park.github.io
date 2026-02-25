@@ -143,6 +143,11 @@ presentations:
         authors: Park, Seulkee 
         conference: "The 47th Conference of International Computer Archive of Modern and Medieval English (ICAME47). May 26-30. Koblenz, Germany: University of Koblenz."
 
+      - title: "2026. An empirical evaluation of prompting strategies for Korean metaphor extraction in restaurant reviews" 
+        link: "https://isli-khu.github.io/jwllp35/program.html"
+        authors: Choi, Yunseong, Seulkee Park, Jong-Bok Kim, Charmgil Hong
+        conference: "The 35th Joint Workshop on Linguistics and Language Processing (JWLLP 35). April 18. Seoul, Korea: Kyung Hee University"
+
       - title: "2025. Conceptual metaphors in food reviews: LLM-based implications for Korean discourse" 
         link: "https://vlsp.org.vn/paclic2025/"
         authors: Hong, Charmgil, Jong-Bok Kim, Seulkee Park, and Yunseong Choe
