@@ -145,11 +145,6 @@ presentations:
         authors: Park, Seulkee, Jong-Bok Kim and Charmgil Hong
         conference: "The 59th Annual Meeting of the Societas Linguistica Europaea (SLE 58). August 26-29. Osnabrück, Germany: Universität Osnabrück."
 
-      - title: "2026. Comparing AI and human intuition in Korean double negation: An empirical perspective " 
-        link: "https://sites.google.com/view/eapc2026/home?authuser=0"
-        authors: Park, Seulkee 
-        conference: "The 3rd East Asian Pragmatics Conference (EAPC2026). June 20-21. Suwon, South Korea: Ajou University."
-
       - title: "2026. Metaphor Span Extraction in Korean Informal Text: An Analysis of Prompting Strategies in Large Language Models" 
         link: "https://www.kiise.or.kr/conference/kcc/2026/"
         authors: Choi, Yunseong, Seulkee Park, Jong-Bok Kim, and Charmgil Hong
@@ -159,6 +154,11 @@ presentations:
         link: "https://www.kiise.or.kr/conference/kcc/2026/"
         authors: Choi, Yunseong, Seulkee Park, Jong-Bok Kim, and Charmgil Hong
         conference: "Korea Computer Congress 2026 (KCC2026). June 24-26. Jeju, Korea: ICC JEJU"
+
+      - title: "2026. Comparing AI and human intuition in Korean double negation: An empirical perspective " 
+        link: "https://sites.google.com/view/eapc2026/home?authuser=0"
+        authors: Park, Seulkee 
+        conference: "The 3rd East Asian Pragmatics Conference (EAPC2026). June 20-21. Suwon, South Korea: Ajou University."
 
       - title: "2026. An empirical evaluation of prompting strategies for Korean metaphor extraction in restaurant reviews" 
         link: "https://isli-khu.github.io/jwllp35/program.html"
