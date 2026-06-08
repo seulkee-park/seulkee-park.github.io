@@ -150,10 +150,15 @@ presentations:
         authors: Park, Seulkee 
         conference: "The 3rd East Asian Pragmatics Conference (EAPC2026). June 20-21. Suwon, South Korea: Ajou University."
 
-      - title: "2026. AI-human intuition gaps in Korean double negation: A big data-based empirical study" 
-        link: "https://wp.uni-koblenz.de/icame47/cfp/"
-        authors: Park, Seulkee 
-        conference: "The 47th Conference of International Computer Archive of Modern and Medieval English (ICAME47). May 26-30. Koblenz, Germany: University of Koblenz."
+      - title: "2026. Metaphor Span Extraction in Korean Informal Text: An Analysis of Prompting Strategies in Large Language Models" 
+        link: "https://www.kiise.or.kr/conference/kcc/2026/"
+        authors: Choi, Yunseong, Seulkee Park, Jong-Bok Kim, and Charmgil Hong
+        conference: "Korea Computer Congress 2026 (KCC2026). June 24-26. Jeju, Korea: ICC JEJU"
+
+      - title: "2026. Analyzing Response Alignment and Negative Preference in Large Language Models for Negative Polarity Questions" 
+        link: "https://www.kiise.or.kr/conference/kcc/2026/"
+        authors: Choi, Yunseong, Seulkee Park, Jong-Bok Kim, and Charmgil Hong
+        conference: "Korea Computer Congress 2026 (KCC2026). June 24-26. Jeju, Korea: ICC JEJU"
 
       - title: "2026. An empirical evaluation of prompting strategies for Korean metaphor extraction in restaurant reviews" 
         link: "https://isli-khu.github.io/jwllp35/program.html"
