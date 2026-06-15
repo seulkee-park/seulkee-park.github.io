@@ -142,7 +142,7 @@ presentations:
 
       - title: "2026. Korean Medical Metaphors: Corpus Analysis and LLM Modeling" 
         link: "https://societaslinguistica.eu/sle2026/"
-        authors: Park, Seulkee, Jong-Bok Kim and Charmgil Hong
+        authors: Kim, Jong-Bok, Seulkee Park and Charmgil Hong
         conference: "The 59th Annual Meeting of the Societas Linguistica Europaea (SLE 58). August 26-29. Osnabrück, Germany: Universität Osnabrück."
 
       - title: "2026. Metaphor Span Extraction in Korean Informal Text: An Analysis of Prompting Strategies in Large Language Models" 
