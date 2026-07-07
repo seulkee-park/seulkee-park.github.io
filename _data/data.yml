@@ -102,6 +102,16 @@ proceedings:
     intro: |
     
     papers:  
+      - title: "2026. Analyzing Response Alignment and Negative Preference in Large Language Models for Negative Polarity Questions"
+        link: "https://www.kiise.or.kr/academy/main/main.fa"
+        authors: Yunseong Choe, <b class="term">Park, Seulkee</b>, Jong-Bok Kim,  and Charmgil Hong
+        conference: "<i>The Proceedings of 2026 Korea Computer Congress</i>, 8119-821. Korean Institute of Information Scientists and Engineers. "
+        
+      - title: "2026. Metaphor Span Extraction in Korean Informal Text: An Analysis of Prompting Strategies in Large Language Models"
+        link: "https://www.kiise.or.kr/academy/main/main.fa"
+        authors: Yunseong Choe, <b class="term">Park, Seulkee</b>, Jong-Bok Kim,  and Charmgil Hong
+        conference: "<i>The Proceedings of 2026 Korea Computer Congress</i>, 816-818. Korean Institute of Information Scientists and Engineers. "
+           
       - title: "2025. Conceptual Metaphors in Food Reviews: LLM-Based Implications for Korean Discourse"
         link: "http://isli.khu.ac.kr/paclic/pdfs/39/2025.PACLIC_39-1.81.pdf"
         authors: Charmgil Hong, Jong-Bok Kim, <b class="term">Park, Seulkee</b> and Yunseong Choe
