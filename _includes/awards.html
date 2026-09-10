@@ -1,31 +1,31 @@
-{% assign scholarships = site.data.data.scholarships %}
-{% if scholarships %}
-<section class="section scholarships-section">
+{% assign awards = site.data.data.awards %}
+{% if awards %}
+<section class="section awards-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    Scholarships
+    Awards
   </h2>
 
-  {% for scholarships in scholarships %}
+  {% for awards in awards %}
   <div class="item">
 
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ scholarships.role }}</h3>
-        <div class="time">{{ scholarships.time }}</div>
+        <h3 class="job-title">{{ awards.role }}</h3>
+        <div class="time">{{ awards.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="company">{{ scholarships.company }}</div>
+      <div class="company">{{ awards.company }}</div>
 
     </div><!--//meta-->
 
-    {% if scholarships.details %}
+    {% if awards.details %}
     <div class="details">
-      {{ scholarships.details | markdownify }}
+      {{ awards.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 
