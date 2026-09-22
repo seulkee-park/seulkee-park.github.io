@@ -150,6 +150,12 @@ presentations:
     intro: |
 
     papers:   
+      - title: "2026. Probing Monotonic Reasoning and Negation Processing in Korean Natural Language Inference" 
+        link: "https://www.english-linguistics.de/2026/09/18/workshop-investigations-of-negation-negative-polar-questions-and-negative-dependencies-in-german-and-korean/"
+        authors: Yunseong Choi, Charmgil Hong, Jong-Bok Kim, and Seulkee Park 
+        conference: "The Workshop of Empirical, Theoretical, and Experimental Investigations of Negation, Negative Polar Questions, and Negative Dependencies in
+German and Korean: Implications for Large Language Models. October 10. Frankfurt, Germany: Goethe University Frankfurt."
+
       - title: "2026. Generative AI-Human intuition gaps in Korean double negation: A big data-based empirical study [Best Poster 3rd Prize]" 
         link: "https://societaslinguistica.eu/sle2026/"
         authors: Park, Seulkee
