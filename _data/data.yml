@@ -160,6 +160,16 @@ presentations:
     intro: |
 
     papers:   
+      - title: "2026. KoMoNLI: Evaluating Korean NLI Models on Monotonicity and Negation" 
+        link: "https://paclic2026.github.io/index.html#home"
+        authors: Yunseong Choi, Seulkee Park, Jong-Bok Kim, and Charmgil Hong 
+        conference: "The 40th Pacific Asia Conference on Language, Information and Computation (PACLIC 40). December 10-12. Taipei, Taiwan: National Taiwan University (NTU)."
+
+      - title: "2026. How Language Models Judge Metaphor in Korean Restaurant Reviews" 
+        link: "https://paclic2026.github.io/workshop.html"
+        authors: Yunseong Choi, Seulkee Park, Jong-Bok Kim, and Charmgil Hong 
+        conference: "The 36th Joint Workshop on Linguistics and Language Processing (JWLLP 36). December 12. Taipei, Taiwan: National Taiwan University (NTU)."
+
       - title: "2026. Probing Monotonic Reasoning and Negation Processing in Korean Natural Language Inference" 
         link: "https://www.english-linguistics.de/2026/09/18/workshop-investigations-of-negation-negative-polar-questions-and-negative-dependencies-in-german-and-korean/"
         authors: Yunseong Choi, Charmgil Hong, Jong-Bok Kim, and Seulkee Park 
